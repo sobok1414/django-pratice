@@ -24,8 +24,7 @@ class Book(models.Model):
 
     def display_genre(self):
         return ', '.join(genre.name for genre in self.genre.all()[:3])
-
-    display_genre.short_description = 'Genre'
+        display_genre.short_description = 'Genre'
     
 class BookInstance(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, help_text='Unique Id for this particular book across whole library')
