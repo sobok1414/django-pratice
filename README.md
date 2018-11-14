@@ -3,6 +3,8 @@
 보고 배운 곳.
 https://developer.mozilla.org/ko/
 
+
+<h3>자세한 </h3>
 <ol>
           <li><a href="/en-US/docs/Learn/Server-side/Django">Django web framework (Python) overview</a></li>
           <li><a href="/en-US/docs/Learn/Server-side/Django/Introduction">Introduction</a></li>
@@ -20,4 +22,4 @@ https://developer.mozilla.org/ko/
           <li><a href="/en-US/docs/Learn/Server-side/Django/Deployment">Tutorial Part 11: Deploying Django to production</a></li>
           <li><a href="/en-US/docs/Learn/Server-side/Django/web_application_security">Web application security</a></li>
           <li><a href="/en-US/docs/Learn/Server-side/Django/django_assessment_blog">Assessment: DIY mini blog</a></li>
-       </ol>
+</ol>
