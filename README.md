@@ -4,7 +4,7 @@
 https://developer.mozilla.org/ko/
 
 
-<h3>자세한 </h3>
+<h3>자세한 튜토</h3>
 <ol>
           <li><a href="/en-US/docs/Learn/Server-side/Django">Django web framework (Python) overview</a></li>
           <li><a href="/en-US/docs/Learn/Server-side/Django/Introduction">Introduction</a></li>
